@@ -2,7 +2,7 @@
 
 This project is
 
-- Used create-nuxt-app
+- Used a create-nuxt-app
 - Add TypeScript support
 - Binding Tailwind CSS
 
