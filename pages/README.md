@@ -1,6 +1,7 @@
-# PAGES
+# MY TS-NUXT BOILERPLATE
 
-This directory contains your Application Views and Routes.
-The framework reads all the `*.vue` files inside this directory and creates the router of your application.
+This project is
 
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/guide/routing).
+- Used create-nuxt-app
+- Add TypeScript support
+- Binding Tailwind CSS
