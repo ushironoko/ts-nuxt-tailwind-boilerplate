@@ -3,6 +3,7 @@ const pkg = require('./package')
 
 const config: NuxtConfiguration = {
   mode: 'spa',
+  srcDir: 'src/',
 
   /*
   ** Headers of the page
@@ -30,7 +31,7 @@ const config: NuxtConfiguration = {
   /*
   ** Plugins to load before mounting the App
   */
-  plugins: [],
+  plugins: ['~/plugins/vue-js-modal'],
 
   /*
   ** Nuxt.js modules
